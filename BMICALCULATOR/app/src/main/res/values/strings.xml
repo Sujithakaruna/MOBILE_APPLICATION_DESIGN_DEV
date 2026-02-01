@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BMICALCULATOR</string>
+    <string name="weight_kg" />
+    <string name="height_cm" />
+    <string name="calculate_bmi" />
+    <string name="result" />
+    <string name="Height_cm">Height (cm)</string>
+    <string name="Calculate_bmi">Calculate BMI</string>
+    <string name="Result">Result</string>
+    <string name="Weight_kg">Weight (kg)</string>
+    <string name="Height_CM">Height (cm)</string>
+    <string name="Weight_KG">Weight (kg)</string>
+    <string name="BMI_result">BMI Result</string>
+    <string name="calculate_BMI">Calculate BMI</string>
+    <string name="HEIGHT_cm">Height (cm)</string>
+    <string name="Calculate_BMI">Calculate BMI</string>
+    <string name="BMI_RESULT">BMI Result</string>
+    <string name="WEIGHT_KG">Weight (kg)</string>
+</resources>
