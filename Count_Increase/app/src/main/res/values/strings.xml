@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Count_Increase</string>
+    <string name="button">Button</string>
+    <string name="increase_size">increase size</string>
+    <string name="button2">Button2</string>
+    <string name="change">change</string>
+    <string name="_0">0</string>
+    <string name="checkin">CheckIn</string>
+    <string name="checkout">CheckOut</string>
+</resources>
