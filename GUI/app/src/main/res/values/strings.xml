@@ -1,0 +1,10 @@
+<resources>
+    <string name="HARDWORK">HARDWORK</string>
+    <string name="increase_font_size">Increase Text Size</string>
+    <string name="change_txt_color">Change Text Color</string>
+    <string name="change_bg_color">Change Background Color</string>
+    <string name="app_name" />
+    <string name="increase_size">Increase Size</string>
+    <string name="change_color">Change Color</string>
+    <string name="hardwork">HARDWORK</string>
+</resources>

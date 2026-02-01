@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mainLayout" type="id" />
+    <item name="textView" type="id" />
+    <item name="btnSize" type="id" />
+    <item name="btnColor" type="id" />
+    <item name="btnBg" type="id" />
+</resources>
